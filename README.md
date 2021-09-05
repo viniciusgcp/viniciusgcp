@@ -5,5 +5,3 @@
 
 My name Vinicius Pereira, I'm from Brazil
 Studying for **web developer**
-
-
